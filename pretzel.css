@@ -1,0 +1,101 @@
+body{
+	background-color:#bf914b;
+
+}
+h1{
+	font-family: sans-serif;
+	font-size: 60pt;
+	color:#603913;
+	position:relative;
+	left:725px;
+	top:100px;
+	height:100px;
+	width:500px;
+
+}
+img{
+	width:200px;
+	position:relative;
+	left:1143px;
+	top:670px;
+}
+.prep{
+	position:relative;
+	left:940px;
+	top:580px;
+
+}
+
+.pret{
+	position:absolute;
+	left:850px;
+	top:825px;
+	width:500px;
+
+}
+h5{
+	font-family: sans-serif;
+	font-size: 24pt;
+	color:#603913;
+	position:relative;
+	left:1000px;
+	top:40px;
+	width:300px;
+
+}
+.Ingredients{
+	width: 400px;
+	padding: 20px;
+	background-color:#d9f1ff;
+	font-size: 20pt;
+	color:#603913;
+	position:relative;
+	top:200px;
+	left:150px;
+}
+
+h2{
+	font-family: sans-serif;
+	font-size: 20pt;
+	color:#d9f1ff;
+	position:relative;
+	top:405px;
+	left:250px;
+}
+
+.pretzels{
+	width: 400px;
+	padding: 20px;
+	font-size: 20px;
+	color:#d9f1ff;
+	position:relative;
+	top:292px;
+	left:20px;
+	border-right: solid #d9f1ff;
+	padding: 150px;
+}
+h4{
+	font-family: sans-serif;
+	font-size: 20pt;
+	color:#d9f1ff;
+	position:relative;
+	top:-370px;
+	left:975px;
+	width:300px;
+}
+
+.dip{
+	width: 400px;
+	font-size: 20px;
+	color:#d9f1ff;
+	padding: 20px;
+	position:relative;
+	top:-365px;
+	left:840px;
+}
+.icon{
+	position:absolute;
+	left:655px;
+	top:2075px;
+	width:150px;
+}
